@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018635147871",
+    "project_id": "csce546-d7bc8",
+    "storage_bucket": "csce546-d7bc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018635147871:android:abfd6770b24d0276a859ea",
+        "android_client_info": {
+          "package_name": "com.example.oruganti_csce546_camaraassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018635147871-98c2pq6ecldabf66o91neuvptpeknb31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgkHf3GTj5nXxA8KAHUtS1HSWFp0u_WiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018635147871-98c2pq6ecldabf66o91neuvptpeknb31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

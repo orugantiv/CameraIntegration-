@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Oruganti_CSCE546_CamaraAssignment</string>
+    <string name="my_spinner_hint">Select One</string>
+
+    <string-array name="planets_array">
+
+    </string-array>
+</resources>
